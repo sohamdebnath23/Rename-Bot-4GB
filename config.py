@@ -19,7 +19,7 @@ LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002734547238"))
 
 
 # Mongo DB Database Config
-DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://nekac84715:<db_password>@cluster0.jlecihg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://bepewi8610:<db_password>@cluster0.fxbahec.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "madflixbotz")
 
 
@@ -47,6 +47,6 @@ START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d
 
 # Jishu Developer 
 # Don't Remove Credit 🥺
-# Telegram Channel @Madflix_Bots
+# Telegram Channel @MOVEGOLDEN10
 # Backup Channel @JishuBotz
-# Developer @JishuDeveloper
+# Developer @thunderfyu
