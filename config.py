@@ -19,8 +19,8 @@ LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002734547238"))
 
 
 # Mongo DB Database Config
-DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://<username>:@ac-pgb7cdv-shard-00-00.fxbahec.mongodb.net/mydatabase?retryWrites=true&w=majority&tls=true")
-DATABASE_NAME = os.environ.get("DATABASE_NAME", "madflixbotz")
+DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://<username>:@<soham>ac-pgb7cdv-shard-00-00.fxbahec.mongodb.net/mydatabase?retryWrites=true&w=majority&tls=true")
+DATABASE_NAME = os.environ.get("DATABASE_NAME", "thunder")
 
 
 # Other Variables Config
@@ -45,8 +45,8 @@ START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d
 
 
 
-# Jishu Developer 
+# thunder 
 # Don't Remove Credit 🥺
 # Telegram Channel @MOVEGOLDEN10
-# Backup Channel @JishuBotz
+# Backup Channel @MOVEGOLDEN10
 # Developer @thunderfyu
