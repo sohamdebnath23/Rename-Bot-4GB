@@ -19,7 +19,8 @@ LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002734547238"))
 
 
 # Mongo DB Database Config
-DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://<username>:@<soham>ac-pgb7cdv-shard-00-00.fxbahec.mongodb.net/mydatabase?retryWrites=true&w=majority&tls=true")
+DATABASE_URL = os.environ.get("DATABASE_URL", "DATABASE_URL = "mongodb+srv://mymongo_user:mySecurePassword@cluster0.mongodb.net/myDatabase?retryWrites=true&w=majority"
+")
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "thunder")
 
 
