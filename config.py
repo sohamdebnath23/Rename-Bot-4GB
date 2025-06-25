@@ -19,7 +19,7 @@ LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002734547238"))
 
 
 # Mongo DB Database Config
-DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://<username>:<password>@ac-pgb7cdv-shard-00-00.fxbahec.mongodb.net/mydatabase?retryWrites=true&w=majority&tls=true")
+DATABASE_URL = os.environ.get("DATABASE_URL", "mongodb+srv://<username>:@ac-pgb7cdv-shard-00-00.fxbahec.mongodb.net/mydatabase?retryWrites=true&w=majority&tls=true")
 DATABASE_NAME = os.environ.get("DATABASE_NAME", "madflixbotz")
 
 
