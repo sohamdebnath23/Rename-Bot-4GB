@@ -32,9 +32,7 @@ START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d
 
 # If You Need To Add Verify System Then Message Me On Telegram
 # Check Demo Bots
-# https://t.me/FileRenameXBot
-# https://t.me/PremiumRenamerRobot
-# https://t.me/FileRenamerXRobot
+
 # Token Verification Adding Features Is Paid So If You Want Then Dm Me
 
 
